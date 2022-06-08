@@ -1,5 +1,3 @@
-console.log(document.getElementById('inc'));
-
 // ====== Definir Reducer e Estado Inicial ==========
 const initialState = { count: 0 };
 const reducer = (state = initialState, action) => {
